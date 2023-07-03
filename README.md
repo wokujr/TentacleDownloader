@@ -1,3 +1,3 @@
 # TentacleDownloader
 
-this is not completed yet
+Bulk Download manga from nHentai
